@@ -1,6 +1,7 @@
 
 import './App.css'
 import Header from './components/header/header'
+import Shop from './components/shop/Shop'
 
 function App() {
   
@@ -9,6 +10,7 @@ function App() {
     
       <div className='App'>
         <Header></Header>
+        <Shop></Shop>
        </div>
     
   )
